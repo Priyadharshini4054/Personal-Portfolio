@@ -641,7 +641,7 @@ img {
 }
 .form-img{
     flex-basis: 50%;
-    background: #5d5050;
+  
     background-size: cover;
     padding: 40px;
     border-top-right-radius: 8px;
