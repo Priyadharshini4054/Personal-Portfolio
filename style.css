@@ -648,6 +648,7 @@ img {
     border-bottom-right-radius: 8px;
     align-items: center;
     display: grid;
+    border-radius: 10px;
 }
 .form-img img{
     max-width: 100%;
