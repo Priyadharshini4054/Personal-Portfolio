@@ -641,15 +641,13 @@ img {
 }
 .form-img{
     flex-basis: 50%;
-    background-color: #5d5050;
-  
+    background-color: #5d5050; 
     background-size: cover;
     padding: 40px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
     align-items: center;
     display: grid;
-    border-radius: 10px;
 }
 .form-img img{
     max-width: 100%;
@@ -683,7 +681,7 @@ textarea{
 }
 .contact-form input:focus{
     background: transparent;
-    border: 1px solid #69275c;
+    border: 1px solid #dbcfd8;
 }
 .contact-form button{
     font-size: 18px;
